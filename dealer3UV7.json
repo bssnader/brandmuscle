@@ -1,0 +1,394 @@
+{
+  "count" : 5,
+  "page" : 1,
+  "size" : 0,
+  "results" : [ {
+    "dealerId" : "9J35",
+    "headquartersId" : "4KRC",
+    "mainStreet" : true,
+    "certified" : false,
+    "name" : "LONG ISLAND PANELING CEILINGS AND FLOORS",
+    "channel" : "Independent",
+    "programId" : "EPP",
+    "url" : "http://flooringretailer.armstrong.com/9J35",
+    "storeImageName" : "//s7d2.scene7.com/is/image/ArmstrongFlooring/afp-dlr-lip",
+    "addressLine1" : "2410 MIDDLE COUNTRY RD",
+    "cityName" : "CENTEREACH",
+    "stateAbbreviation" : "NY",
+    "postalCode" : "11720",
+    "countryId" : "US",
+    "phone" : "631-419-3911",
+    "faxNumber" : "631-588-8546",
+    "contactAllowed" : true,
+    "hours" : "M-F    7:00AM  -  9:00PM<br />SAT   8:00AM  -  6:00PM<br />SUN  9:30AM  -  5:00PM",
+    "coupons" : [ {
+      "couponId" : "10OFF",
+      "couponTitle" : "Save Up To $500",
+      "emailImage" : null,
+      "expirationDays" : 60,
+      "finePrintText" : "Present coupon to sales associate. This coupon entitles you to receive 10% off any qualifying Armstrong flooring purchase between $1,000-$5,000, up to $500. Exclusions apply, In-store only, no online sales. Discount applies to flooring material only. This coupon cannot be combined with any other offer including prior purchases, sale and clearance items. One coupon limit per person, per order, at participating retailer noted below.",
+      "languageId" : "EN"
+    } ],
+    "latitudeCoord" : 40.8699,
+    "longitudeCoord" : -73.0833,
+    "mapLatitudeCoord" : 40.858146,
+    "mapLongitudeCoord" : -73.097275,
+    "distanceMiles" : 7.247435597296695,
+    "distanceKilometers" : 11.595896955674712,
+    "distanceFormatted" : "7.25 mi. (11.6 km.)",
+    "silos" : [ {
+      "name" : "Hardwood",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Hardwood"
+    }, {
+      "name" : "Traditional Luxury",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Traditional Luxury"
+    }, {
+      "name" : "Engineered Stone",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Engineered Stone"
+    }, {
+      "name" : "Vinyl Tile",
+      "certified" : false,
+      "rank" : 1,
+      "displayName" : "Vinyl Tile"
+    }, {
+      "name" : "Vinyl Sheet",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Vinyl Sheet"
+    }, {
+      "name" : "Laminate",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Laminate"
+    } ]
+  }, {
+    "dealerId" : "5P4Y",
+    "headquartersId" : "4KRC",
+    "mainStreet" : true,
+    "certified" : false,
+    "name" : "LONG ISLAND PANELING CEILINGS AND FLOORS",
+    "channel" : "Independent",
+    "programId" : "EPP",
+    "url" : "http://flooringretailer.armstrong.com/5P4Y",
+    "storeImageName" : "//s7d2.scene7.com/is/image/ArmstrongFlooring/afp-dlr-lip",
+    "addressLine1" : "6225 JERICHO TURNPIKE",
+    "cityName" : "COMMACK",
+    "stateAbbreviation" : "NY",
+    "postalCode" : "11725",
+    "countryId" : "US",
+    "phone" : "631-343-4060",
+    "faxNumber" : "631-499-0443",
+    "contactAllowed" : true,
+    "hours" : "M-F    7AM-9PM<br />SAT   8AM-6PM<br />SUN  9:30AM-5PM",
+    "coupons" : [ {
+      "couponId" : "10OFF",
+      "couponTitle" : "Save Up To $500",
+      "emailImage" : null,
+      "expirationDays" : 60,
+      "finePrintText" : "Present coupon to sales associate. This coupon entitles you to receive 10% off any qualifying Armstrong flooring purchase between $1,000-$5,000, up to $500. Exclusions apply, In-store only, no online sales. Discount applies to flooring material only. This coupon cannot be combined with any other offer including prior purchases, sale and clearance items. One coupon limit per person, per order, at participating retailer noted below.",
+      "languageId" : "EN"
+    } ],
+    "latitudeCoord" : 40.8411,
+    "longitudeCoord" : -73.2805,
+    "mapLatitudeCoord" : 40.8423584,
+    "mapLongitudeCoord" : -73.3001396,
+    "distanceMiles" : 9.40891657555238,
+    "distanceKilometers" : 15.054266520883811,
+    "distanceFormatted" : "9.41 mi. (15.05 km.)",
+    "silos" : [ {
+      "name" : "Hardwood",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Hardwood"
+    }, {
+      "name" : "Traditional Luxury",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Traditional Luxury"
+    }, {
+      "name" : "Engineered Stone",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Engineered Stone"
+    }, {
+      "name" : "Vinyl Tile",
+      "certified" : false,
+      "rank" : 1,
+      "displayName" : "Vinyl Tile"
+    }, {
+      "name" : "Vinyl Sheet",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Vinyl Sheet"
+    }, {
+      "name" : "Laminate",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Laminate"
+    } ]
+  }, {
+    "dealerId" : "4KRC",
+    "headquartersId" : "4KRC",
+    "mainStreet" : false,
+    "certified" : false,
+    "name" : "LONG ISLAND PANELING CEILINGS AND FLOORS",
+    "channel" : "Independent",
+    "programId" : "EPP",
+    "url" : "http://flooringretailer.armstrong.com/4KRC",
+    "storeImageName" : "//s7d2.scene7.com/is/image/ArmstrongFlooring/afp-dlr-lip",
+    "addressLine1" : "69 SUNRISE HWY",
+    "cityName" : "LINDENHURST",
+    "stateAbbreviation" : "NY",
+    "postalCode" : "11757",
+    "countryId" : "US",
+    "phone" : "631-983-6806",
+    "faxNumber" : "631-888-4950",
+    "contactAllowed" : true,
+    "hours" : "M-F    7AM-9PM<br />SAT   8AM-6PM<br />SUN  9:30AM-5PM",
+    "coupons" : [ {
+      "couponId" : "10OFF",
+      "couponTitle" : "Save Up To $500",
+      "emailImage" : null,
+      "expirationDays" : 60,
+      "finePrintText" : "Present coupon to sales associate. This coupon entitles you to receive 10% off any qualifying Armstrong flooring purchase between $1,000-$5,000, up to $500. Exclusions apply, In-store only, no online sales. Discount applies to flooring material only. This coupon cannot be combined with any other offer including prior purchases, sale and clearance items. One coupon limit per person, per order, at participating retailer noted below.",
+      "languageId" : "EN"
+    } ],
+    "latitudeCoord" : 40.6894,
+    "longitudeCoord" : -73.3745,
+    "mapLatitudeCoord" : 40.700781,
+    "mapLongitudeCoord" : -73.378345,
+    "distanceMiles" : 14.198031459433553,
+    "distanceKilometers" : 22.716850335093685,
+    "distanceFormatted" : "14.2 mi. (22.72 km.)",
+    "silos" : [ {
+      "name" : "Hardwood",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Hardwood"
+    }, {
+      "name" : "Traditional Luxury",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Traditional Luxury"
+    }, {
+      "name" : "Engineered Stone",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Engineered Stone"
+    }, {
+      "name" : "Vinyl Tile",
+      "certified" : false,
+      "rank" : 1,
+      "displayName" : "Vinyl Tile"
+    }, {
+      "name" : "Vinyl Sheet",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Vinyl Sheet"
+    }, {
+      "name" : "Laminate",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Laminate"
+    } ]
+  }, {
+    "dealerId" : "9J34",
+    "headquartersId" : "4KRC",
+    "mainStreet" : false,
+    "certified" : false,
+    "name" : "LONG ISLAND PANELING CEILINGS AND FLOORS",
+    "channel" : "Independent",
+    "programId" : "EPP",
+    "url" : "http://flooringretailer.armstrong.com/9J34",
+    "storeImageName" : "//s7d2.scene7.com/is/image/ArmstrongFlooring/afp-dlr-lip",
+    "addressLine1" : "669 OLD COUNTRY RD",
+    "cityName" : "WESTBURY",
+    "stateAbbreviation" : "NY",
+    "postalCode" : "11590",
+    "countryId" : "US",
+    "phone" : "516-612-8720",
+    "faxNumber" : "516-334-6463",
+    "contactAllowed" : true,
+    "hours" : "M-F    7AM-9PM<br />SAT   8AM-6PM<br />SUN  9:30AM-5PM",
+    "coupons" : [ {
+      "couponId" : "10OFF",
+      "couponTitle" : "Save Up To $500",
+      "emailImage" : null,
+      "expirationDays" : 60,
+      "finePrintText" : "Present coupon to sales associate. This coupon entitles you to receive 10% off any qualifying Armstrong flooring purchase between $1,000-$5,000, up to $500. Exclusions apply, In-store only, no online sales. Discount applies to flooring material only. This coupon cannot be combined with any other offer including prior purchases, sale and clearance items. One coupon limit per person, per order, at participating retailer noted below.",
+      "languageId" : "EN"
+    } ],
+    "latitudeCoord" : 40.756,
+    "longitudeCoord" : -73.5739,
+    "mapLatitudeCoord" : 40.750759,
+    "mapLongitudeCoord" : -73.572795,
+    "distanceMiles" : 23.526126989232388,
+    "distanceKilometers" : 37.641803182771824,
+    "distanceFormatted" : "23.53 mi. (37.64 km.)",
+    "silos" : [ {
+      "name" : "Hardwood",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Hardwood"
+    }, {
+      "name" : "Traditional Luxury",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Traditional Luxury"
+    }, {
+      "name" : "Engineered Stone",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Engineered Stone"
+    }, {
+      "name" : "Vinyl Tile",
+      "certified" : false,
+      "rank" : 1,
+      "displayName" : "Vinyl Tile"
+    }, {
+      "name" : "Vinyl Sheet",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Vinyl Sheet"
+    }, {
+      "name" : "Laminate",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Laminate"
+    } ]
+  }, {
+    "dealerId" : "9J33",
+    "headquartersId" : "4KRC",
+    "mainStreet" : false,
+    "certified" : false,
+    "name" : "LONG ISLAND PANELING CEILINGS AND FLOORS",
+    "channel" : "Independent",
+    "programId" : "EPP",
+    "url" : "http://flooringretailer.armstrong.com/9J33",
+    "storeImageName" : "//s7d2.scene7.com/is/image/ArmstrongFlooring/afp-dlr-lip",
+    "addressLine1" : "2060 JERICHO TURNPIKE",
+    "cityName" : "NEW HYDE PARK",
+    "stateAbbreviation" : "NY",
+    "postalCode" : "11040",
+    "countryId" : "US",
+    "phone" : "516-717-4761",
+    "faxNumber" : "516-352-7274",
+    "contactAllowed" : true,
+    "hours" : "M-F     7AM-9PM<br />SAT    8AM-6PM<br />SUN   9:30AM-5PM",
+    "coupons" : [ {
+      "couponId" : "10OFF",
+      "couponTitle" : "Save Up To $500",
+      "emailImage" : null,
+      "expirationDays" : 60,
+      "finePrintText" : "Present coupon to sales associate. This coupon entitles you to receive 10% off any qualifying Armstrong flooring purchase between $1,000-$5,000, up to $500. Exclusions apply, In-store only, no online sales. Discount applies to flooring material only. This coupon cannot be combined with any other offer including prior purchases, sale and clearance items. One coupon limit per person, per order, at participating retailer noted below.",
+      "languageId" : "EN"
+    } ],
+    "latitudeCoord" : 40.7459,
+    "longitudeCoord" : -73.6798,
+    "mapLatitudeCoord" : 40.736395,
+    "mapLongitudeCoord" : -73.672557,
+    "distanceMiles" : 29.131919482784188,
+    "distanceKilometers" : 46.6110711724547,
+    "distanceFormatted" : "29.13 mi. (46.61 km.)",
+    "silos" : [ {
+      "name" : "Hardwood",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Hardwood"
+    }, {
+      "name" : "Traditional Luxury",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Traditional Luxury"
+    }, {
+      "name" : "Engineered Stone",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Engineered Stone"
+    }, {
+      "name" : "Vinyl Tile",
+      "certified" : false,
+      "rank" : 1,
+      "displayName" : "Vinyl Tile"
+    }, {
+      "name" : "Vinyl Sheet",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Vinyl Sheet"
+    }, {
+      "name" : "Laminate",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Laminate"
+    } ]
+  } ],
+  "dealer" : {
+    "dealerId" : "3UV7",
+    "headquartersId" : "4KRC",
+    "mainStreet" : false,
+    "certified" : false,
+    "name" : "LONG ISLAND PANELING CEILINGS AND FLOORS",
+    "channel" : "Independent",
+    "programId" : "EPP",
+    "url" : "http://flooringretailer.armstrong.com/3UV7",
+    "storeImageName" : "//s7d2.scene7.com/is/image/ArmstrongFlooring/afp-dlr-lip",
+    "addressLine1" : "4769 SUNRISE HWY",
+    "cityName" : "BOHEMIA",
+    "stateAbbreviation" : "NY",
+    "postalCode" : "11716",
+    "countryId" : "US",
+    "phone" : "631-328-2348",
+    "faxNumber" : "631-567-6043",
+    "contactAllowed" : true,
+    "hours" : "M-F    7AM-9PM<br />SAT   8AM-6PM<br />SUN  9:30AM-5PM",
+    "coupons" : [ {
+      "couponId" : "10OFF",
+      "couponTitle" : "Save Up To $500",
+      "emailImage" : null,
+      "expirationDays" : 60,
+      "finePrintText" : "Present coupon to sales associate. This coupon entitles you to receive 10% off any qualifying Armstrong flooring purchase between $1,000-$5,000, up to $500. Exclusions apply, In-store only, no online sales. Discount applies to flooring material only. This coupon cannot be combined with any other offer including prior purchases, sale and clearance items. One coupon limit per person, per order, at participating retailer noted below.",
+      "languageId" : "EN"
+    } ],
+    "latitudeCoord" : 40.7711,
+    "longitudeCoord" : -73.1274,
+    "mapLatitudeCoord" : 40.757205,
+    "mapLongitudeCoord" : -73.109503,
+    "silos" : [ {
+      "name" : "Hardwood",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Hardwood"
+    }, {
+      "name" : "Traditional Luxury",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Traditional Luxury"
+    }, {
+      "name" : "Engineered Stone",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Engineered Stone"
+    }, {
+      "name" : "Vinyl Tile",
+      "certified" : false,
+      "rank" : 1,
+      "displayName" : "Vinyl Tile"
+    }, {
+      "name" : "Vinyl Sheet",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Vinyl Sheet"
+    }, {
+      "name" : "Laminate",
+      "certified" : false,
+      "rank" : 5,
+      "displayName" : "Laminate"
+    } ]
+  }
+}
